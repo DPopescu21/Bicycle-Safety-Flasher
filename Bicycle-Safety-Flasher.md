@@ -24,9 +24,7 @@ The Printed Circuit Board was meticulously designed to meet strict industrial co
 * **Grounding:** Implementation of a Dynamic Copper Ground Plane on the Bottom layer to minimize noise.
 * **Deliverables:** Generated full Gerber files, NC Drill data, and Assembly drawings.
 
-
-
-## 📂 Repository Structure
+##  Repository Structure
 * **/Docs:** Full technical documentation and design constraints.
 * **/Datasheets:** Component specifications (CD4093, Relays, etc.).
 
